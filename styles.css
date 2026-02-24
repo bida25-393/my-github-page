@@ -70,7 +70,7 @@ img {
 }
 
 main a[href^="mailto:"] {
-  color: #ff5722
+  color: #ff5722;
   font-weight: bold;
 }
   
